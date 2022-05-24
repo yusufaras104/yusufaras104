@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Yusuf Aras </h1>
 
-<p align="center" width="150px"> Diligent Software Developer with 5+ years of experience in commercial application development. Eager to join Blockchain and Web 3.0 to build innovative and cutting-edge business solutions for the impressive suite of clients within its global reach. In previous roles, slashed downtime by 25% and ensured 98% on-time project completion. Also identified and dealt with a significant process bottleneck that boosted coding efficiency by 35% when resolved.
+<p align="left" width="150px"> Diligent Software Developer with 5+ years of experience in commercial application development. Eager to join Blockchain and Web 3.0 to build innovative and cutting-edge business solutions for the impressive suite of clients within its global reach. In previous roles, slashed downtime by 25% and ensured 98% on-time project completion. Also identified and dealt with a significant process bottleneck that boosted coding efficiency by 35% when resolved.
 
 Currently, I am developing myself in the field of Blockchain and decentralized finance, as well as providing studies in the Cloud, Data, Network and Fibre industries. First of all, I like to work remotely, of course, full-time roles also make me very happy because, as before, I love teamwork.
 
