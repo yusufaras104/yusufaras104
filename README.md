@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on With Ethereum and Monzo companies
 - 📫 How to reach me You can contact me with my web address and e-mail address:
   - Web address: [UKT](http://unitedkingtechnology.com) 
-  - e-mail: info@unitedkingtechnology.co
+  - e-mail: info@unitedkingtechnology.com
 
 <!---
 yusufaras104/yusufaras104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
